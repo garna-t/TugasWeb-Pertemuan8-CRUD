@@ -94,12 +94,12 @@ crud-inventaris/
 
 ### Halaman Utama
 
-![Halaman Utama](./screenshot/screenshot-home.png)
+![Halaman Utama](./screenshot/home.png)
 
 ### Form Tambah Produk
 
-![Form Tambah Produk](./screenshot/screenshot-create.png)
+![Form Tambah Produk](./screenshot/create.png)
 
 ### Form Edit Produk
 
-![Form Edit Produk](./screenshot/screenshot-edit.png)
+![Form Edit Produk](./screenshot/edit.png)
